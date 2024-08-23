@@ -11,6 +11,6 @@ I'm a passionate software developer with a focus on creatively solving problems.
 - **Experienced Linux Power User**: I have extensive experience with Linux as my primary operating system, used distros like Arch Linux and Gentoo as a main OS.
 - **Script Kiddie**: I'am a Junior in this subject, but soon I will become a Professional Pentester.
 
-🌱 I'm always learning and seeking new opportunities to grow as a developer. Connect with me, and let's collaborate on exciting projects!
+🌱 I'm always learning and seeking new opportunities to grow as a developer.
 
 Thanks for visiting my profile! 🚀
