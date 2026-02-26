@@ -13,3 +13,5 @@ I'm a passionate software developer with a focus on creatively solving problems.
 
 Thanks for visiting my profile! 🚀
 If you have any suggestions, please let me know.
+
+My site: https://kernelripper-profile.pages.dev/
